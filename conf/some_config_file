@@ -1,0 +1,9 @@
+{
+    "NOTICE": "NOT USED",
+    
+    "server": "0.0.0.0",
+    "server_port": "__PORT__",
+    "password": "__SERVER_PASSWORD__",
+    "method": "__SERVER_METHOD__",
+    "timeout": "__SERVER_TIMEOUT__"
+}
